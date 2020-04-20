@@ -1,2 +1,2 @@
 # Seal-detection
-Detect Seal or Stamp from documents
+Detect Seal/Stamp, tables, signature and logo from any documents
